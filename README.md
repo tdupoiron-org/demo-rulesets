@@ -1,5 +1,5 @@
 # demo-rulesets this is a commit on main
 
-update 1
+commit 1
 
-update 2
+commit 2
