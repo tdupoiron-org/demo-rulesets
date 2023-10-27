@@ -1,5 +1,3 @@
 # demo-rulesets
 
-update 1
-
-update 2
+commit 1
