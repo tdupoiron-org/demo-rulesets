@@ -1,3 +1,3 @@
-# demo-rulesets
+# demo-rulesets ruleset
 
 this is a change
